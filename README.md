@@ -1,8 +1,9 @@
  
 
-## HTML 😎
+## HTML & CSS 😎
 
-![HTMLWEB](https://img.shields.io/badge/HTML-Programação%20web-blueviolet)
+![HTML](https://img.shields.io/badge/HTML-5-blueviolet)
+![CSS](https://img.shields.io/badge/CSS-3-success)
 
 HTML é uma das linguagens que utilizamos para desenvolver websites. O acrônimo HTML vem do inglês e significa Hypertext Markup Language ou em português Linguagem de Marcação de Hipertexto.
 
